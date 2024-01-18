@@ -12,7 +12,7 @@ Sou uma estudante do 4° semestre de <b>Ciência da Computação</b> buscando de
 
 ![Andreina's GitHub stats](https://github-readme-stats.vercel.app/api?username=andromedeh&show_icons=true&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andromedeh&theme=tokyonight&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andromedeh&theme=tokyonight&hide_progress=true)
 
 </div>
 
