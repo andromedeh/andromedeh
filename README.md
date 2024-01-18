@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Olá, meu nome é Andreina! 🐱
+## Olá, meu nome é Andreina! 
 
 Sou uma estudante do 4° semestre de <b>Ciência da Computação</b> buscando desenvolver cada vez mais minhas habilidades em programação e tecnologia. 
 
