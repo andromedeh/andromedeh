@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/andromedeh">
-    <img align="center" src="welcomeicon.png">
+    <img align="center" src="welcomeicon1.png">
   </a>
 </div>
 
